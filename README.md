@@ -2,7 +2,7 @@
 
 # Projeto Expert Notes
 
-Este é o repositório do projeto Expert Notesque consiste em uma aplicação interativa para a criação de notas por meio da fala e da escrita. Usando as principais stacks front-end: React, TypeScript, Tailwind, date-fns, Radix, Lucide React, Sonner e a SpeechRecognition API para criar um projeto visual incrível e de alta performance.
+Este é o repositório do projeto Expert Notesque consiste em uma aplicação interativa para a criação de notas por meio da fala e da escrita. Usando as principais stacks front-end: React, TypeScript, Tailwind, date-fns, Radix, Lucide React, Sonner e a SpeechRecognition API para criar um visual incrível e de alta performance.
 
 ![Home](./public/assets/Home.png)
 
